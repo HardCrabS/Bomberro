@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DestroyableTilemap
+  - Undestroyable
+  - Exsplosion Distance
+  - Add Bomb
+  - Enemy
+  - Player1
+  - Player2
+  - Shoot
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - 
+  - Destroyable
+  - Undestroyable
+  - Unwalkable
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2316313427
+    locked: 0
+  - name: Destroyable
+    uniqueID: 1924808747
+    locked: 0
+  - name: Undestroyable
+    uniqueID: 126896321
+    locked: 0
+  - name: ExplosionLine
+    uniqueID: 3743947815
+    locked: 0
+  - name: UI texts
+    uniqueID: 3760308867
+    locked: 0
